@@ -103,7 +103,7 @@ cd chatbridge
 ## 许可
 
 **All Rights Reserved**（保留所有权利）。源码公开供学习与参考，未经许可请勿重新分发编译产物或用于商业用途。
-如果你希望改成开源许可（MIT / Apache-2.0 等），改 `gradle.properties` 的 `mod_license`、`LICENSE` 与本节说明即可。
+
 
 第三方依赖各自遵循其原许可：Minecraft Forge（LGPL-2.1）、Curios（MIT）、KubeJS、e33chat。
 本仓库**不包含**任何第三方 jar。

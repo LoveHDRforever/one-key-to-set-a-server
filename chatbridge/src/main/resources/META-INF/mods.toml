@@ -1,0 +1,48 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+# Client side addon. It is subordinate to two other jars:
+#   * e33chat            - optional: without it the sidebar simply has nowhere to draw the buttons, so the mod
+#                          loads and does nothing instead of refusing to start the client
+#   * onekeytosetaserver - optional, the server mod that can push the button list
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="${mod_authors}"
+# Adding rows to e33chat's sidebar only makes sense on a client, so the loader never starts this mod on a
+# dedicated server - and a client that does not have it is not rejected either.
+clientSideOnly=true
+displayTest="IGNORE_ALL_VERSION"
+description='''${mod_description}'''
+
+[[dependencies.${mod_id}]]
+    modId="forge"
+    mandatory=true
+    versionRange="${forge_version_range}"
+    ordering="NONE"
+    side="CLIENT"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="CLIENT"
+
+# Optional on purpose: a missing e33chat used to abort the whole client start ("missing mandatory dependency").
+# The mixin that draws the buttons lives in a config with "required": false, so it is simply skipped.
+[[dependencies.${mod_id}]]
+    modId="e33chat"
+    mandatory=false
+    versionRange="[2.0,)"
+    ordering="AFTER"
+    side="CLIENT"
+
+[[dependencies.${mod_id}]]
+    modId="onekeytosetaserver"
+    mandatory=false
+    versionRange="[0.2,)"
+    ordering="AFTER"
+    side="CLIENT"

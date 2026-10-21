@@ -1,0 +1,3258 @@
+[
+    {
+        "itemId": "minecraft:calcite",
+        "price": 0.5
+    },
+    {
+        "itemId": "minecraft:dripstone_block",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:hay_block",
+        "price": 11.82
+    },
+    {
+        "itemId": "minecraft:honey_block",
+        "price": 8.34
+    },
+    {
+        "itemId": "minecraft:magma_block",
+        "price": 8.41
+    },
+    {
+        "itemId": "minecraft:packed_ice",
+        "price": 3.38
+    },
+    {
+        "itemId": "minecraft:rooted_dirt",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:slime_block",
+        "price": 11.82
+    },
+    {
+        "itemId": "minecraft:snow_block",
+        "price": 3.15
+    },
+    {
+        "itemId": "minecraft:soul_sand",
+        "price": 2.5
+    },
+    {
+        "itemId": "minecraft:stone",
+        "price": 0.18
+    },
+    {
+        "itemId": "minecraft:tnt",
+        "price": 26.65
+    },
+    {
+        "itemId": "minecraft:tuff",
+        "price": 0.5
+    },
+    {
+        "itemId": "minecraft:glowstone",
+        "price": 7.35
+    },
+    {
+        "itemId": "minecraft:andesite",
+        "price": 0.18
+    },
+    {
+        "itemId": "minecraft:bamboo_block",
+        "price": 0.24
+    },
+    {
+        "itemId": "minecraft:bamboo_mosaic",
+        "price": 0.14
+    },
+    {
+        "itemId": "minecraft:bamboo_planks",
+        "price": 0.13
+    },
+    {
+        "itemId": "minecraft:stripped_bamboo_block",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:blackstone",
+        "price": 0.19
+    },
+    {
+        "itemId": "minecraft:polished_blackstone",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:polished_blackstone_bricks",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:bookshelf",
+        "price": 29.78
+    },
+    {
+        "itemId": "minecraft:chiseled_bookshelf",
+        "price": 2.2
+    },
+    {
+        "itemId": "minecraft:bricks",
+        "price": 23.16
+    },
+    {
+        "itemId": "minecraft:cherry_log",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:cherry_planks",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:cherry_wood",
+        "price": 1.05
+    },
+    {
+        "itemId": "minecraft:stripped_cherry_log",
+        "price": 0.79
+    },
+    {
+        "itemId": "minecraft:stripped_cherry_wood",
+        "price": 1.11
+    },
+    {
+        "itemId": "minecraft:basalt",
+        "price": 10.0
+    },
+    {
+        "itemId": "minecraft:cobblestone",
+        "price": 0.17
+    },
+    {
+        "itemId": "minecraft:mossy_cobblestone",
+        "price": 2.02
+    },
+    {
+        "itemId": "minecraft:black_concrete",
+        "price": 2.11
+    },
+    {
+        "itemId": "minecraft:blue_concrete",
+        "price": 2.18
+    },
+    {
+        "itemId": "minecraft:brown_concrete",
+        "price": 2.14
+    },
+    {
+        "itemId": "minecraft:cyan_concrete",
+        "price": 1.96
+    },
+    {
+        "itemId": "minecraft:gray_concrete",
+        "price": 2.06
+    },
+    {
+        "itemId": "minecraft:green_concrete",
+        "price": 1.94
+    },
+    {
+        "itemId": "minecraft:light_blue_concrete",
+        "price": 1.97
+    },
+    {
+        "itemId": "minecraft:light_gray_concrete",
+        "price": 1.97
+    },
+    {
+        "itemId": "minecraft:lime_concrete",
+        "price": 7.72
+    },
+    {
+        "itemId": "minecraft:magenta_concrete",
+        "price": 7.72
+    },
+    {
+        "itemId": "minecraft:orange_concrete",
+        "price": 7.72
+    },
+    {
+        "itemId": "minecraft:pink_concrete",
+        "price": 7.72
+    },
+    {
+        "itemId": "minecraft:purple_concrete",
+        "price": 7.72
+    },
+    {
+        "itemId": "minecraft:red_concrete",
+        "price": 1.97
+    },
+    {
+        "itemId": "minecraft:white_concrete",
+        "price": 2.01
+    },
+    {
+        "itemId": "minecraft:yellow_concrete",
+        "price": 1.96
+    },
+    {
+        "itemId": "minecraft:oxidized_copper",
+        "price": 19.15
+    },
+    {
+        "itemId": "minecraft:waxed_copper_block",
+        "price": 18.2
+    },
+    {
+        "itemId": "minecraft:waxed_cut_copper",
+        "price": 19.06
+    },
+    {
+        "itemId": "minecraft:waxed_exposed_copper",
+        "price": 19.06
+    },
+    {
+        "itemId": "minecraft:waxed_exposed_cut_copper",
+        "price": 19.98
+    },
+    {
+        "itemId": "minecraft:waxed_oxidized_copper",
+        "price": 20.11
+    },
+    {
+        "itemId": "minecraft:waxed_oxidized_cut_copper",
+        "price": 21.11
+    },
+    {
+        "itemId": "minecraft:waxed_weathered_copper",
+        "price": 19.98
+    },
+    {
+        "itemId": "minecraft:waxed_weathered_cut_copper",
+        "price": 20.93
+    },
+    {
+        "itemId": "minecraft:cobbled_deepslate",
+        "price": 0.17
+    },
+    {
+        "itemId": "minecraft:deepslate",
+        "price": 0.18
+    },
+    {
+        "itemId": "minecraft:deepslate_tiles",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:diorite",
+        "price": 0.18
+    },
+    {
+        "itemId": "minecraft:polished_diorite",
+        "price": 0.19
+    },
+    {
+        "itemId": "minecraft:clay",
+        "price": 5.25
+    },
+    {
+        "itemId": "minecraft:crimson_nylium",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:dirt",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:grass_block",
+        "price": 2.0
+    },
+    {
+        "itemId": "minecraft:gravel",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:mycelium",
+        "price": 2.0
+    },
+    {
+        "itemId": "minecraft:podzol",
+        "price": 2.0
+    },
+    {
+        "itemId": "minecraft:warped_nylium",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:packed_mud",
+        "price": 0.24
+    },
+    {
+        "itemId": "minecraft:dried_kelp_block",
+        "price": 0.24
+    },
+    {
+        "itemId": "minecraft:white_wool",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:orange_wool",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:magenta_wool",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:light_blue_wool",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:yellow_wool",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:lime_wool",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:pink_wool",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:gray_wool",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:light_gray_wool",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:cyan_wool",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:purple_wool",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:blue_wool",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:brown_wool",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:green_wool",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:red_wool",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:black_wool",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:exposed_copper",
+        "price": 19.06
+    },
+    {
+        "itemId": "minecraft:amethyst_block",
+        "price": 0.35
+    },
+    {
+        "itemId": "minecraft:amethyst_shard",
+        "price": 0.33
+    },
+    {
+        "itemId": "minecraft:ancient_debris",
+        "price": 2222.0
+    },
+    {
+        "itemId": "minecraft:coal",
+        "price": 5.25
+    },
+    {
+        "itemId": "minecraft:coal_block",
+        "price": 49.62
+    },
+    {
+        "itemId": "minecraft:copper_block",
+        "price": 16.54
+    },
+    {
+        "itemId": "minecraft:copper_ingot",
+        "price": 3.94
+    },
+    {
+        "itemId": "minecraft:diamond",
+        "price": 210.0
+    },
+    {
+        "itemId": "minecraft:diamond_block",
+        "price": 1984.5
+    },
+    {
+        "itemId": "minecraft:emerald",
+        "price": 35.56
+    },
+    {
+        "itemId": "minecraft:emerald_block",
+        "price": 336.01
+    },
+    {
+        "itemId": "minecraft:gold_block",
+        "price": 74.42
+    },
+    {
+        "itemId": "minecraft:gold_ingot",
+        "price": 7.88
+    },
+    {
+        "itemId": "minecraft:iron_block",
+        "price": 49.62
+    },
+    {
+        "itemId": "minecraft:iron_ingot",
+        "price": 5.25
+    },
+    {
+        "itemId": "minecraft:lapis_block",
+        "price": 34.11
+    },
+    {
+        "itemId": "minecraft:lapis_lazuli",
+        "price": 3.61
+    },
+    {
+        "itemId": "minecraft:quartz",
+        "price": 2.0
+    },
+    {
+        "itemId": "minecraft:quartz_block",
+        "price": 34.73
+    },
+    {
+        "itemId": "minecraft:redstone",
+        "price": 1.32
+    },
+    {
+        "itemId": "minecraft:redstone_block",
+        "price": 12.41
+    },
+    {
+        "itemId": "minecraft:cauldron",
+        "price": 27.57
+    },
+    {
+        "itemId": "minecraft:daylight_detector",
+        "price": 31.32
+    },
+    {
+        "itemId": "minecraft:dispenser",
+        "price": 8.74
+    },
+    {
+        "itemId": "minecraft:dropper",
+        "price": 2.63
+    },
+    {
+        "itemId": "minecraft:hopper",
+        "price": 29.19
+    },
+    {
+        "itemId": "minecraft:iron_door",
+        "price": 5.52
+    },
+    {
+        "itemId": "minecraft:jukebox",
+        "price": 222.05
+    },
+    {
+        "itemId": "minecraft:lever",
+        "price": 0.28
+    },
+    {
+        "itemId": "minecraft:lightning_rod",
+        "price": 12.41
+    },
+    {
+        "itemId": "minecraft:note_block",
+        "price": 2.93
+    },
+    {
+        "itemId": "minecraft:observer",
+        "price": 12.51
+    },
+    {
+        "itemId": "minecraft:redstone_lamp",
+        "price": 13.23
+    },
+    {
+        "itemId": "minecraft:redstone_torch",
+        "price": 1.48
+    },
+    {
+        "itemId": "minecraft:respawn_anchor",
+        "price": 121.59
+    },
+    {
+        "itemId": "minecraft:target",
+        "price": 17.92
+    },
+    {
+        "itemId": "minecraft:tripwire_hook",
+        "price": 2.91
+    },
+    {
+        "itemId": "minecraft:comparator",
+        "price": 13.91
+    },
+    {
+        "itemId": "minecraft:repeater",
+        "price": 5.05
+    },
+    {
+        "itemId": "minecraft:cherry_button",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:oak_button",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:stone_button",
+        "price": 0.19
+    },
+    {
+        "itemId": "minecraft:piston",
+        "price": 8.19
+    },
+    {
+        "itemId": "minecraft:sticky_piston",
+        "price": 9.91
+    },
+    {
+        "itemId": "minecraft:cherry_pressure_plate",
+        "price": 0.39
+    },
+    {
+        "itemId": "minecraft:oak_pressure_plate",
+        "price": 0.39
+    },
+    {
+        "itemId": "minecraft:stone_pressure_plate",
+        "price": 0.38
+    },
+    {
+        "itemId": "minecraft:light_weighted_pressure_plate",
+        "price": 16.54
+    },
+    {
+        "itemId": "minecraft:heavy_weighted_pressure_plate",
+        "price": 11.03
+    },
+    {
+        "itemId": "minecraft:calibrated_sculk_sensor",
+        "price": 4.19
+    },
+    {
+        "itemId": "minecraft:sculk_sensor",
+        "price": 31.25
+    },
+    {
+        "itemId": "minecraft:cherry_trapdoor",
+        "price": 0.58
+    },
+    {
+        "itemId": "minecraft:oak_trapdoor",
+        "price": 0.58
+    },
+    {
+        "itemId": "minecraft:iron_trapdoor",
+        "price": 22.05
+    },
+    {
+        "itemId": "minecraft:bamboo",
+        "price": 0.03
+    },
+    {
+        "itemId": "minecraft:bee_nest",
+        "price": 10.0
+    },
+    {
+        "itemId": "minecraft:beehive",
+        "price": 3.64
+    },
+    {
+        "itemId": "minecraft:beetroot",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:beetroot_seeds",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:brown_mushroom",
+        "price": 0.5
+    },
+    {
+        "itemId": "minecraft:cactus",
+        "price": 0.03
+    },
+    {
+        "itemId": "minecraft:carrot",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:chorus_flower",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:chorus_fruit",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:cocoa_beans",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:crimson_fungus",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:egg",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:kelp",
+        "price": 0.03
+    },
+    {
+        "itemId": "minecraft:leather",
+        "price": 8.4
+    },
+    {
+        "itemId": "minecraft:melon",
+        "price": 2.37
+    },
+    {
+        "itemId": "minecraft:melon_seeds",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:melon_slice",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:nether_wart",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:pitcher_pod",
+        "price": 5.13
+    },
+    {
+        "itemId": "minecraft:potato",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:pumpkin",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:pumpkin_seeds",
+        "price": 0.3
+    },
+    {
+        "itemId": "minecraft:red_mushroom",
+        "price": 0.5
+    },
+    {
+        "itemId": "minecraft:sugar_cane",
+        "price": 0.03
+    },
+    {
+        "itemId": "minecraft:torchflower_seeds",
+        "price": 5.13
+    },
+    {
+        "itemId": "minecraft:warped_fungus",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:wheat",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:wheat_seeds",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:apple",
+        "price": 2.5
+    },
+    {
+        "itemId": "minecraft:bread",
+        "price": 3.94
+    },
+    {
+        "itemId": "minecraft:cake",
+        "price": 60.17
+    },
+    {
+        "itemId": "minecraft:cooked_salmon",
+        "price": 1.58
+    },
+    {
+        "itemId": "minecraft:cookie",
+        "price": 0.53
+    },
+    {
+        "itemId": "minecraft:glistering_melon_slice",
+        "price": 6.88
+    },
+    {
+        "itemId": "minecraft:glow_berries",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:golden_carrot",
+        "price": 7.93
+    },
+    {
+        "itemId": "minecraft:honey_bottle",
+        "price": 1.99
+    },
+    {
+        "itemId": "minecraft:baked_potato",
+        "price": 1.32
+    },
+    {
+        "itemId": "minecraft:cooked_beef",
+        "price": 1.58
+    },
+    {
+        "itemId": "minecraft:cooked_chicken",
+        "price": 1.58
+    },
+    {
+        "itemId": "minecraft:cooked_mutton",
+        "price": 1.58
+    },
+    {
+        "itemId": "minecraft:cooked_porkchop",
+        "price": 1.58
+    },
+    {
+        "itemId": "minecraft:cooked_rabbit",
+        "price": 1.58
+    },
+    {
+        "itemId": "minecraft:beef",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:chicken",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:mutton",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:porkchop",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:rabbit",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:beetroot_soup",
+        "price": 9.61
+    },
+    {
+        "itemId": "minecraft:black_dye",
+        "price": 1.32
+    },
+    {
+        "itemId": "minecraft:blue_dye",
+        "price": 0.27
+    },
+    {
+        "itemId": "minecraft:brown_dye",
+        "price": 1.58
+    },
+    {
+        "itemId": "minecraft:cyan_dye",
+        "price": 0.16
+    },
+    {
+        "itemId": "minecraft:gray_dye",
+        "price": 0.91
+    },
+    {
+        "itemId": "minecraft:green_dye",
+        "price": 0.03
+    },
+    {
+        "itemId": "minecraft:light_blue_dye",
+        "price": 0.27
+    },
+    {
+        "itemId": "minecraft:light_gray_dye",
+        "price": 0.27
+    },
+    {
+        "itemId": "minecraft:lime_dye",
+        "price": 1.58
+    },
+    {
+        "itemId": "minecraft:magenta_dye",
+        "price": 0.27
+    },
+    {
+        "itemId": "minecraft:orange_dye",
+        "price": 0.27
+    },
+    {
+        "itemId": "minecraft:pink_dye",
+        "price": 0.27
+    },
+    {
+        "itemId": "minecraft:purple_dye",
+        "price": 0.28
+    },
+    {
+        "itemId": "minecraft:red_dye",
+        "price": 0.27
+    },
+    {
+        "itemId": "minecraft:white_dye",
+        "price": 0.41
+    },
+    {
+        "itemId": "minecraft:yellow_dye",
+        "price": 0.18
+    },
+    {
+        "itemId": "minecraft:azure_bluet",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:blue_orchid",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:cornflower",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:lilac",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:lily_of_the_valley",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:orange_tulip",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:oxeye_daisy",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:peony",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:pink_petals",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:pink_tulip",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:pitcher_plant",
+        "price": 5.19
+    },
+    {
+        "itemId": "minecraft:poppy",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:red_tulip",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:sunflower",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:torchflower",
+        "price": 5.19
+    },
+    {
+        "itemId": "minecraft:ink_sac",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:chain",
+        "price": 6.68
+    },
+    {
+        "itemId": "minecraft:flower_pot",
+        "price": 17.37
+    },
+    {
+        "itemId": "minecraft:honeycomb_block",
+        "price": 3.31
+    },
+    {
+        "itemId": "minecraft:jack_o_lantern",
+        "price": 2.79
+    },
+    {
+        "itemId": "minecraft:pointed_dripstone",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:spore_blossom",
+        "price": 0.88
+    },
+    {
+        "itemId": "minecraft:black_candle",
+        "price": 4.18
+    },
+    {
+        "itemId": "minecraft:blue_candle",
+        "price": 3.08
+    },
+    {
+        "itemId": "minecraft:brown_candle",
+        "price": 4.46
+    },
+    {
+        "itemId": "minecraft:candle",
+        "price": 2.67
+    },
+    {
+        "itemId": "minecraft:cyan_candle",
+        "price": 2.96
+    },
+    {
+        "itemId": "minecraft:gray_candle",
+        "price": 3.75
+    },
+    {
+        "itemId": "minecraft:green_candle",
+        "price": 2.83
+    },
+    {
+        "itemId": "minecraft:light_blue_candle",
+        "price": 3.08
+    },
+    {
+        "itemId": "minecraft:light_gray_candle",
+        "price": 3.08
+    },
+    {
+        "itemId": "minecraft:lime_candle",
+        "price": 4.46
+    },
+    {
+        "itemId": "minecraft:magenta_candle",
+        "price": 3.08
+    },
+    {
+        "itemId": "minecraft:orange_candle",
+        "price": 3.08
+    },
+    {
+        "itemId": "minecraft:pink_candle",
+        "price": 3.08
+    },
+    {
+        "itemId": "minecraft:purple_candle",
+        "price": 3.09
+    },
+    {
+        "itemId": "minecraft:red_candle",
+        "price": 3.08
+    },
+    {
+        "itemId": "minecraft:white_candle",
+        "price": 3.23
+    },
+    {
+        "itemId": "minecraft:yellow_candle",
+        "price": 2.99
+    },
+    {
+        "itemId": "minecraft:brain_coral",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:brain_coral_block",
+        "price": 4.0
+    },
+    {
+        "itemId": "minecraft:brain_coral_fan",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:bubble_coral",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:bubble_coral_block",
+        "price": 4.0
+    },
+    {
+        "itemId": "minecraft:bubble_coral_fan",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:dead_brain_coral",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:dead_brain_coral_block",
+        "price": 4.0
+    },
+    {
+        "itemId": "minecraft:dead_brain_coral_fan",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:dead_bubble_coral",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:dead_bubble_coral_block",
+        "price": 4.0
+    },
+    {
+        "itemId": "minecraft:dead_bubble_coral_fan",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:dead_fire_coral",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:dead_fire_coral_block",
+        "price": 4.0
+    },
+    {
+        "itemId": "minecraft:dead_fire_coral_fan",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:dead_horn_coral",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:dead_horn_coral_block",
+        "price": 4.0
+    },
+    {
+        "itemId": "minecraft:dead_horn_coral_fan",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:dead_tube_coral",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:dead_tube_coral_block",
+        "price": 4.0
+    },
+    {
+        "itemId": "minecraft:dead_tube_coral_fan",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:fire_coral",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:fire_coral_block",
+        "price": 4.0
+    },
+    {
+        "itemId": "minecraft:fire_coral_fan",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:horn_coral",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:horn_coral_block",
+        "price": 4.0
+    },
+    {
+        "itemId": "minecraft:horn_coral_fan",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:tube_coral",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:tube_coral_block",
+        "price": 4.0
+    },
+    {
+        "itemId": "minecraft:tube_coral_fan",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:acacia_leaves",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:azalea_leaves",
+        "price": 0.79
+    },
+    {
+        "itemId": "minecraft:birch_leaves",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:cherry_leaves",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:dark_oak_leaves",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:flowering_azalea_leaves",
+        "price": 0.79
+    },
+    {
+        "itemId": "minecraft:jungle_leaves",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:oak_leaves",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:spruce_leaves",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:sea_lantern",
+        "price": 16.54
+    },
+    {
+        "itemId": "minecraft:shroomlight",
+        "price": 2.0
+    },
+    {
+        "itemId": "minecraft:ochre_froglight",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:pearlescent_froglight",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:verdant_froglight",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:mangrove_leaves",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:mangrove_roots",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:muddy_mangrove_roots",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:acacia_sapling",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:azalea",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:birch_sapling",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:cherry_sapling",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:dark_oak_sapling",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:flowering_azalea",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:jungle_sapling",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:mangrove_propagule",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:oak_sapling",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:spruce_sapling",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:acacia_hanging_sign",
+        "price": 0.91
+    },
+    {
+        "itemId": "minecraft:acacia_sign",
+        "price": 0.63
+    },
+    {
+        "itemId": "minecraft:bamboo_hanging_sign",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:bamboo_sign",
+        "price": 0.32
+    },
+    {
+        "itemId": "minecraft:birch_hanging_sign",
+        "price": 0.91
+    },
+    {
+        "itemId": "minecraft:birch_sign",
+        "price": 0.63
+    },
+    {
+        "itemId": "minecraft:cherry_hanging_sign",
+        "price": 0.83
+    },
+    {
+        "itemId": "minecraft:cherry_sign",
+        "price": 0.47
+    },
+    {
+        "itemId": "minecraft:crimson_hanging_sign",
+        "price": 0.83
+    },
+    {
+        "itemId": "minecraft:crimson_sign",
+        "price": 0.47
+    },
+    {
+        "itemId": "minecraft:dark_oak_hanging_sign",
+        "price": 0.91
+    },
+    {
+        "itemId": "minecraft:dark_oak_sign",
+        "price": 0.63
+    },
+    {
+        "itemId": "minecraft:jungle_hanging_sign",
+        "price": 0.91
+    },
+    {
+        "itemId": "minecraft:jungle_sign",
+        "price": 0.63
+    },
+    {
+        "itemId": "minecraft:mangrove_hanging_sign",
+        "price": 0.83
+    },
+    {
+        "itemId": "minecraft:mangrove_sign",
+        "price": 0.47
+    },
+    {
+        "itemId": "minecraft:oak_hanging_sign",
+        "price": 0.91
+    },
+    {
+        "itemId": "minecraft:oak_sign",
+        "price": 0.63
+    },
+    {
+        "itemId": "minecraft:spruce_hanging_sign",
+        "price": 0.91
+    },
+    {
+        "itemId": "minecraft:spruce_sign",
+        "price": 0.63
+    },
+    {
+        "itemId": "minecraft:warped_hanging_sign",
+        "price": 0.83
+    },
+    {
+        "itemId": "minecraft:warped_sign",
+        "price": 0.47
+    },
+    {
+        "itemId": "minecraft:glow_lichen",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:twisting_vines",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:vine",
+        "price": 1.75
+    },
+    {
+        "itemId": "minecraft:weeping_vines",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:angler_pottery_sherd",
+        "price": 7.48
+    },
+    {
+        "itemId": "minecraft:archer_pottery_sherd",
+        "price": 7.02
+    },
+    {
+        "itemId": "minecraft:arms_up_pottery_sherd",
+        "price": 6.01
+    },
+    {
+        "itemId": "minecraft:blade_pottery_sherd",
+        "price": 7.48
+    },
+    {
+        "itemId": "minecraft:brewer_pottery_sherd",
+        "price": 6.01
+    },
+    {
+        "itemId": "minecraft:burn_pottery_sherd",
+        "price": 7.35
+    },
+    {
+        "itemId": "minecraft:danger_pottery_sherd",
+        "price": 7.35
+    },
+    {
+        "itemId": "minecraft:decorated_pot",
+        "price": 23.16
+    },
+    {
+        "itemId": "minecraft:explorer_pottery_sherd",
+        "price": 7.48
+    },
+    {
+        "itemId": "minecraft:friend_pottery_sherd",
+        "price": 7.35
+    },
+    {
+        "itemId": "minecraft:heart_pottery_sherd",
+        "price": 7.35
+    },
+    {
+        "itemId": "minecraft:heartbreak_pottery_sherd",
+        "price": 7.35
+    },
+    {
+        "itemId": "minecraft:howl_pottery_sherd",
+        "price": 7.35
+    },
+    {
+        "itemId": "minecraft:miner_pottery_sherd",
+        "price": 7.02
+    },
+    {
+        "itemId": "minecraft:mourner_pottery_sherd",
+        "price": 7.48
+    },
+    {
+        "itemId": "minecraft:plenty_pottery_sherd",
+        "price": 7.48
+    },
+    {
+        "itemId": "minecraft:prize_pottery_sherd",
+        "price": 7.02
+    },
+    {
+        "itemId": "minecraft:sheaf_pottery_sherd",
+        "price": 7.35
+    },
+    {
+        "itemId": "minecraft:shelter_pottery_sherd",
+        "price": 7.48
+    },
+    {
+        "itemId": "minecraft:skull_pottery_sherd",
+        "price": 7.02
+    },
+    {
+        "itemId": "minecraft:snort_pottery_sherd",
+        "price": 7.48
+    },
+    {
+        "itemId": "minecraft:coast_armor_trim_smithing_template",
+        "price": 48.33
+    },
+    {
+        "itemId": "minecraft:dune_armor_trim_smithing_template",
+        "price": 49.81
+    },
+    {
+        "itemId": "minecraft:eye_armor_trim_smithing_template",
+        "price": 48.9
+    },
+    {
+        "itemId": "minecraft:host_armor_trim_smithing_template",
+        "price": 51.13
+    },
+    {
+        "itemId": "minecraft:netherite_upgrade_smithing_template",
+        "price": 48.27
+    },
+    {
+        "itemId": "minecraft:raiser_armor_trim_smithing_template",
+        "price": 51.13
+    },
+    {
+        "itemId": "minecraft:rib_armor_trim_smithing_template",
+        "price": 48.27
+    },
+    {
+        "itemId": "minecraft:sentry_armor_trim_smithing_template",
+        "price": 48.33
+    },
+    {
+        "itemId": "minecraft:shaper_armor_trim_smithing_template",
+        "price": 51.13
+    },
+    {
+        "itemId": "minecraft:silence_armor_trim_smithing_template",
+        "price": 48.33
+    },
+    {
+        "itemId": "minecraft:snout_armor_trim_smithing_template",
+        "price": 48.34
+    },
+    {
+        "itemId": "minecraft:spire_armor_trim_smithing_template",
+        "price": 48.67
+    },
+    {
+        "itemId": "minecraft:tide_armor_trim_smithing_template",
+        "price": 52.1
+    },
+    {
+        "itemId": "minecraft:vex_armor_trim_smithing_template",
+        "price": 48.33
+    },
+    {
+        "itemId": "minecraft:ward_armor_trim_smithing_template",
+        "price": 48.33
+    },
+    {
+        "itemId": "minecraft:wayfinder_armor_trim_smithing_template",
+        "price": 51.13
+    },
+    {
+        "itemId": "minecraft:wild_armor_trim_smithing_template",
+        "price": 49.3
+    },
+    {
+        "itemId": "minecraft:arrow",
+        "price": 0.56
+    },
+    {
+        "itemId": "minecraft:blaze_powder",
+        "price": 0.66
+    },
+    {
+        "itemId": "minecraft:blaze_rod",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:bone",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:ender_pearl",
+        "price": 1.75
+    },
+    {
+        "itemId": "minecraft:feather",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:fermented_spider_eye",
+        "price": 2.4
+    },
+    {
+        "itemId": "minecraft:ghast_tear",
+        "price": 10.0
+    },
+    {
+        "itemId": "minecraft:gunpowder",
+        "price": 3.88
+    },
+    {
+        "itemId": "minecraft:magma_cream",
+        "price": 2.01
+    },
+    {
+        "itemId": "minecraft:nautilus_shell",
+        "price": 45.0
+    },
+    {
+        "itemId": "minecraft:phantom_membrane",
+        "price": 31.29
+    },
+    {
+        "itemId": "minecraft:rabbit_foot",
+        "price": 45.0
+    },
+    {
+        "itemId": "minecraft:rabbit_hide",
+        "price": 2.0
+    },
+    {
+        "itemId": "minecraft:rotten_flesh",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:slime_ball",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:spider_eye",
+        "price": 1.75
+    },
+    {
+        "itemId": "minecraft:string",
+        "price": 1.75
+    },
+    {
+        "itemId": "minecraft:anvil",
+        "price": 178.33
+    },
+    {
+        "itemId": "minecraft:acacia_button",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:acacia_door",
+        "price": 0.39
+    },
+    {
+        "itemId": "minecraft:acacia_fence",
+        "price": 0.33
+    },
+    {
+        "itemId": "minecraft:acacia_fence_gate",
+        "price": 0.8
+    },
+    {
+        "itemId": "minecraft:acacia_pressure_plate",
+        "price": 0.39
+    },
+    {
+        "itemId": "minecraft:acacia_trapdoor",
+        "price": 0.58
+    },
+    {
+        "itemId": "minecraft:activator_rail",
+        "price": 5.81
+    },
+    {
+        "itemId": "minecraft:allium",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:amethyst_cluster",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:andesite_slab",
+        "price": 0.1
+    },
+    {
+        "itemId": "minecraft:andesite_stairs",
+        "price": 0.19
+    },
+    {
+        "itemId": "minecraft:andesite_wall",
+        "price": 0.19
+    },
+    {
+        "itemId": "minecraft:armor_stand",
+        "price": 0.71
+    },
+    {
+        "itemId": "minecraft:birch_button",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:birch_door",
+        "price": 0.39
+    },
+    {
+        "itemId": "minecraft:birch_fence",
+        "price": 0.33
+    },
+    {
+        "itemId": "minecraft:birch_fence_gate",
+        "price": 0.8
+    },
+    {
+        "itemId": "minecraft:birch_pressure_plate",
+        "price": 0.39
+    },
+    {
+        "itemId": "minecraft:birch_trapdoor",
+        "price": 0.58
+    },
+    {
+        "itemId": "minecraft:black_banner",
+        "price": 46.41
+    },
+    {
+        "itemId": "minecraft:black_bed",
+        "price": 23.74
+    },
+    {
+        "itemId": "minecraft:black_carpet",
+        "price": 5.15
+    },
+    {
+        "itemId": "minecraft:black_concrete_powder",
+        "price": 2.01
+    },
+    {
+        "itemId": "minecraft:black_glazed_terracotta",
+        "price": 6.25
+    },
+    {
+        "itemId": "minecraft:black_shulker_box",
+        "price": 6.94
+    },
+    {
+        "itemId": "minecraft:black_stained_glass",
+        "price": 1.83
+    },
+    {
+        "itemId": "minecraft:black_stained_glass_pane",
+        "price": 0.72
+    },
+    {
+        "itemId": "minecraft:black_terracotta",
+        "price": 5.96
+    },
+    {
+        "itemId": "minecraft:blackstone_slab",
+        "price": 0.1
+    },
+    {
+        "itemId": "minecraft:blackstone_stairs",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:blackstone_wall",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:blue_banner",
+        "price": 46.41
+    },
+    {
+        "itemId": "minecraft:blue_bed",
+        "price": 23.74
+    },
+    {
+        "itemId": "minecraft:blue_carpet",
+        "price": 5.15
+    },
+    {
+        "itemId": "minecraft:blue_concrete_powder",
+        "price": 2.32
+    },
+    {
+        "itemId": "minecraft:blue_glazed_terracotta",
+        "price": 6.58
+    },
+    {
+        "itemId": "minecraft:blue_ice",
+        "price": 15.19
+    },
+    {
+        "itemId": "minecraft:blue_shulker_box",
+        "price": 5.84
+    },
+    {
+        "itemId": "minecraft:blue_stained_glass",
+        "price": 1.69
+    },
+    {
+        "itemId": "minecraft:blue_stained_glass_pane",
+        "price": 0.67
+    },
+    {
+        "itemId": "minecraft:blue_terracotta",
+        "price": 6.27
+    },
+    {
+        "itemId": "minecraft:bone_block",
+        "price": 4.97
+    },
+    {
+        "itemId": "minecraft:bone_meal",
+        "price": 0.53
+    },
+    {
+        "itemId": "minecraft:book",
+        "price": 8.91
+    },
+    {
+        "itemId": "minecraft:bowl",
+        "price": 0.15
+    },
+    {
+        "itemId": "minecraft:brick",
+        "price": 5.52
+    },
+    {
+        "itemId": "minecraft:brick_wall",
+        "price": 24.32
+    },
+    {
+        "itemId": "minecraft:brown_banner",
+        "price": 46.41
+    },
+    {
+        "itemId": "minecraft:brown_bed",
+        "price": 23.74
+    },
+    {
+        "itemId": "minecraft:brown_carpet",
+        "price": 5.15
+    },
+    {
+        "itemId": "minecraft:brown_concrete_powder",
+        "price": 2.04
+    },
+    {
+        "itemId": "minecraft:brown_glazed_terracotta",
+        "price": 6.29
+    },
+    {
+        "itemId": "minecraft:brown_mushroom_block",
+        "price": 0.02
+    },
+    {
+        "itemId": "minecraft:brown_shulker_box",
+        "price": 7.22
+    },
+    {
+        "itemId": "minecraft:brown_stained_glass",
+        "price": 1.87
+    },
+    {
+        "itemId": "minecraft:brown_stained_glass_pane",
+        "price": 0.74
+    },
+    {
+        "itemId": "minecraft:brown_terracotta",
+        "price": 5.99
+    },
+    {
+        "itemId": "minecraft:bucket",
+        "price": 16.54
+    },
+    {
+        "itemId": "minecraft:bundle",
+        "price": 16.28
+    },
+    {
+        "itemId": "minecraft:carved_pumpkin",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:charcoal",
+        "price": 1.58
+    },
+    {
+        "itemId": "minecraft:chest",
+        "price": 1.55
+    },
+    {
+        "itemId": "minecraft:chest_minecart",
+        "price": 30.57
+    },
+    {
+        "itemId": "minecraft:chiseled_deepslate",
+        "price": 0.19
+    },
+    {
+        "itemId": "minecraft:chiseled_nether_bricks",
+        "price": 0.13
+    },
+    {
+        "itemId": "minecraft:chiseled_polished_blackstone",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:chiseled_quartz_block",
+        "price": 36.47
+    },
+    {
+        "itemId": "minecraft:chiseled_red_sandstone",
+        "price": 8.82
+    },
+    {
+        "itemId": "minecraft:chiseled_sandstone",
+        "price": 3.15
+    },
+    {
+        "itemId": "minecraft:chiseled_stone_bricks",
+        "price": 0.19
+    },
+    {
+        "itemId": "minecraft:clay_ball",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:coarse_dirt",
+        "price": 1.45
+    },
+    {
+        "itemId": "minecraft:cobbled_deepslate_wall",
+        "price": 0.18
+    },
+    {
+        "itemId": "minecraft:cobblestone_slab",
+        "price": 0.09
+    },
+    {
+        "itemId": "minecraft:cobblestone_stairs",
+        "price": 0.18
+    },
+    {
+        "itemId": "minecraft:cobblestone_wall",
+        "price": 0.18
+    },
+    {
+        "itemId": "minecraft:cod",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:conduit",
+        "price": 522.71
+    },
+    {
+        "itemId": "minecraft:cooked_cod",
+        "price": 1.58
+    },
+    {
+        "itemId": "minecraft:cracked_deepslate_bricks",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:cracked_deepslate_tiles",
+        "price": 0.21
+    },
+    {
+        "itemId": "minecraft:cracked_nether_bricks",
+        "price": 0.24
+    },
+    {
+        "itemId": "minecraft:cracked_polished_blackstone_bricks",
+        "price": 0.21
+    },
+    {
+        "itemId": "minecraft:cracked_stone_bricks",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:crafting_table",
+        "price": 0.78
+    },
+    {
+        "itemId": "minecraft:creeper_head",
+        "price": 150.0
+    },
+    {
+        "itemId": "minecraft:crimson_button",
+        "price": 0.14
+    },
+    {
+        "itemId": "minecraft:crimson_door",
+        "price": 0.28
+    },
+    {
+        "itemId": "minecraft:crimson_fence",
+        "price": 0.26
+    },
+    {
+        "itemId": "minecraft:crimson_fence_gate",
+        "price": 0.69
+    },
+    {
+        "itemId": "minecraft:crimson_pressure_plate",
+        "price": 0.28
+    },
+    {
+        "itemId": "minecraft:crimson_roots",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:crimson_trapdoor",
+        "price": 0.42
+    },
+    {
+        "itemId": "minecraft:cut_copper",
+        "price": 17.37
+    },
+    {
+        "itemId": "minecraft:cut_copper_slab",
+        "price": 4.35
+    },
+    {
+        "itemId": "minecraft:cut_copper_stairs",
+        "price": 26.05
+    },
+    {
+        "itemId": "minecraft:cut_red_sandstone",
+        "price": 8.82
+    },
+    {
+        "itemId": "minecraft:cut_red_sandstone_slab",
+        "price": 4.41
+    },
+    {
+        "itemId": "minecraft:cut_sandstone",
+        "price": 3.15
+    },
+    {
+        "itemId": "minecraft:cut_sandstone_slab",
+        "price": 1.58
+    },
+    {
+        "itemId": "minecraft:cyan_banner",
+        "price": 46.41
+    },
+    {
+        "itemId": "minecraft:cyan_bed",
+        "price": 23.74
+    },
+    {
+        "itemId": "minecraft:cyan_carpet",
+        "price": 5.15
+    },
+    {
+        "itemId": "minecraft:cyan_concrete_powder",
+        "price": 1.86
+    },
+    {
+        "itemId": "minecraft:cyan_glazed_terracotta",
+        "price": 6.1
+    },
+    {
+        "itemId": "minecraft:cyan_shulker_box",
+        "price": 5.72
+    },
+    {
+        "itemId": "minecraft:cyan_stained_glass",
+        "price": 1.68
+    },
+    {
+        "itemId": "minecraft:cyan_stained_glass_pane",
+        "price": 0.66
+    },
+    {
+        "itemId": "minecraft:cyan_terracotta",
+        "price": 5.81
+    },
+    {
+        "itemId": "minecraft:dandelion",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:dark_oak_button",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:dark_oak_door",
+        "price": 0.39
+    },
+    {
+        "itemId": "minecraft:dark_oak_fence",
+        "price": 0.33
+    },
+    {
+        "itemId": "minecraft:dark_oak_fence_gate",
+        "price": 0.8
+    },
+    {
+        "itemId": "minecraft:dark_oak_pressure_plate",
+        "price": 0.39
+    },
+    {
+        "itemId": "minecraft:dark_oak_trapdoor",
+        "price": 0.58
+    },
+    {
+        "itemId": "minecraft:dead_bush",
+        "price": 7.5
+    },
+    {
+        "itemId": "minecraft:deepslate_brick_slab",
+        "price": 0.1
+    },
+    {
+        "itemId": "minecraft:deepslate_brick_stairs",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:deepslate_brick_wall",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:deepslate_bricks",
+        "price": 0.19
+    },
+    {
+        "itemId": "minecraft:deepslate_tile_wall",
+        "price": 0.21
+    },
+    {
+        "itemId": "minecraft:detector_rail",
+        "price": 5.81
+    },
+    {
+        "itemId": "minecraft:diorite_slab",
+        "price": 0.1
+    },
+    {
+        "itemId": "minecraft:diorite_stairs",
+        "price": 0.19
+    },
+    {
+        "itemId": "minecraft:diorite_wall",
+        "price": 0.19
+    },
+    {
+        "itemId": "minecraft:disc_fragment_5",
+        "price": 25.0
+    },
+    {
+        "itemId": "minecraft:dragon_breath",
+        "price": 27.49
+    },
+    {
+        "itemId": "minecraft:dragon_egg",
+        "price": 1250.0
+    },
+    {
+        "itemId": "minecraft:dragon_head",
+        "price": 1250.0
+    },
+    {
+        "itemId": "minecraft:dried_kelp",
+        "price": 0.03
+    },
+    {
+        "itemId": "minecraft:echo_shard",
+        "price": 25.0
+    },
+    {
+        "itemId": "minecraft:enchanted_golden_apple",
+        "price": 2500.0
+    },
+    {
+        "itemId": "minecraft:enchanting_table",
+        "price": 483.17
+    },
+    {
+        "itemId": "minecraft:end_crystal",
+        "price": 24.73
+    },
+    {
+        "itemId": "minecraft:end_stone_brick_wall",
+        "price": 1.32
+    },
+    {
+        "itemId": "minecraft:exposed_cut_copper",
+        "price": 18.24
+    },
+    {
+        "itemId": "minecraft:exposed_cut_copper_slab",
+        "price": 27.35
+    },
+    {
+        "itemId": "minecraft:exposed_cut_copper_stairs",
+        "price": 27.35
+    },
+    {
+        "itemId": "minecraft:fern",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:fire_charge",
+        "price": 3.43
+    },
+    {
+        "itemId": "minecraft:firework_rocket",
+        "price": 1.37
+    },
+    {
+        "itemId": "minecraft:firework_star",
+        "price": 4.35
+    },
+    {
+        "itemId": "minecraft:flint",
+        "price": 0.5
+    },
+    {
+        "itemId": "minecraft:furnace",
+        "price": 1.43
+    },
+    {
+        "itemId": "minecraft:furnace_minecart",
+        "price": 30.45
+    },
+    {
+        "itemId": "minecraft:gilded_blackstone",
+        "price": 4.25
+    },
+    {
+        "itemId": "minecraft:glass_bottle",
+        "price": 1.66
+    },
+    {
+        "itemId": "minecraft:glow_item_frame",
+        "price": 11.56
+    },
+    {
+        "itemId": "minecraft:gold_nugget",
+        "price": 0.79
+    },
+    {
+        "itemId": "minecraft:golden_apple",
+        "price": 68.78
+    },
+    {
+        "itemId": "minecraft:granite_slab",
+        "price": 0.1
+    },
+    {
+        "itemId": "minecraft:granite_stairs",
+        "price": 0.19
+    },
+    {
+        "itemId": "minecraft:granite_wall",
+        "price": 0.19
+    },
+    {
+        "itemId": "minecraft:grass",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:gray_banner",
+        "price": 46.41
+    },
+    {
+        "itemId": "minecraft:gray_bed",
+        "price": 23.74
+    },
+    {
+        "itemId": "minecraft:gray_carpet",
+        "price": 5.15
+    },
+    {
+        "itemId": "minecraft:gray_concrete_powder",
+        "price": 1.96
+    },
+    {
+        "itemId": "minecraft:gray_glazed_terracotta",
+        "price": 6.21
+    },
+    {
+        "itemId": "minecraft:gray_shulker_box",
+        "price": 6.51
+    },
+    {
+        "itemId": "minecraft:gray_stained_glass",
+        "price": 1.78
+    },
+    {
+        "itemId": "minecraft:gray_stained_glass_pane",
+        "price": 0.7
+    },
+    {
+        "itemId": "minecraft:gray_terracotta",
+        "price": 5.91
+    },
+    {
+        "itemId": "minecraft:green_banner",
+        "price": 46.41
+    },
+    {
+        "itemId": "minecraft:green_bed",
+        "price": 23.74
+    },
+    {
+        "itemId": "minecraft:green_carpet",
+        "price": 5.15
+    },
+    {
+        "itemId": "minecraft:green_concrete_powder",
+        "price": 1.85
+    },
+    {
+        "itemId": "minecraft:green_glazed_terracotta",
+        "price": 6.09
+    },
+    {
+        "itemId": "minecraft:green_shulker_box",
+        "price": 5.59
+    },
+    {
+        "itemId": "minecraft:green_stained_glass",
+        "price": 1.66
+    },
+    {
+        "itemId": "minecraft:green_stained_glass_pane",
+        "price": 0.66
+    },
+    {
+        "itemId": "minecraft:green_terracotta",
+        "price": 5.8
+    },
+    {
+        "itemId": "minecraft:hanging_roots",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:heart_of_the_sea",
+        "price": 137.82
+    },
+    {
+        "itemId": "minecraft:hopper_minecart",
+        "price": 59.59
+    },
+    {
+        "itemId": "minecraft:ice",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:iron_bars",
+        "price": 2.07
+    },
+    {
+        "itemId": "minecraft:iron_nugget",
+        "price": 0.56
+    },
+    {
+        "itemId": "minecraft:item_frame",
+        "price": 9.64
+    },
+    {
+        "itemId": "minecraft:jungle_button",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:jungle_door",
+        "price": 0.39
+    },
+    {
+        "itemId": "minecraft:jungle_fence",
+        "price": 0.33
+    },
+    {
+        "itemId": "minecraft:jungle_fence_gate",
+        "price": 0.8
+    },
+    {
+        "itemId": "minecraft:jungle_pressure_plate",
+        "price": 0.39
+    },
+    {
+        "itemId": "minecraft:jungle_trapdoor",
+        "price": 0.58
+    },
+    {
+        "itemId": "minecraft:ladder",
+        "price": 0.24
+    },
+    {
+        "itemId": "minecraft:large_amethyst_bud",
+        "price": 1.0
+    },
+    {
+        "itemId": "minecraft:large_fern",
+        "price": 1.75
+    },
+    {
+        "itemId": "minecraft:light_blue_banner",
+        "price": 46.41
+    },
+    {
+        "itemId": "minecraft:light_blue_bed",
+        "price": 23.74
+    },
+    {
+        "itemId": "minecraft:light_blue_carpet",
+        "price": 5.15
+    },
+    {
+        "itemId": "minecraft:light_blue_concrete_powder",
+        "price": 1.88
+    },
+    {
+        "itemId": "minecraft:light_blue_glazed_terracotta",
+        "price": 6.12
+    },
+    {
+        "itemId": "minecraft:light_blue_shulker_box",
+        "price": 5.84
+    },
+    {
+        "itemId": "minecraft:light_blue_stained_glass",
+        "price": 1.69
+    },
+    {
+        "itemId": "minecraft:light_blue_stained_glass_pane",
+        "price": 0.67
+    },
+    {
+        "itemId": "minecraft:light_blue_terracotta",
+        "price": 5.83
+    },
+    {
+        "itemId": "minecraft:light_gray_banner",
+        "price": 46.41
+    },
+    {
+        "itemId": "minecraft:light_gray_bed",
+        "price": 23.74
+    },
+    {
+        "itemId": "minecraft:light_gray_carpet",
+        "price": 5.15
+    },
+    {
+        "itemId": "minecraft:light_gray_concrete_powder",
+        "price": 1.88
+    },
+    {
+        "itemId": "minecraft:light_gray_glazed_terracotta",
+        "price": 6.12
+    },
+    {
+        "itemId": "minecraft:light_gray_shulker_box",
+        "price": 5.84
+    },
+    {
+        "itemId": "minecraft:light_gray_stained_glass",
+        "price": 1.69
+    },
+    {
+        "itemId": "minecraft:light_gray_stained_glass_pane",
+        "price": 0.67
+    },
+    {
+        "itemId": "minecraft:light_gray_terracotta",
+        "price": 5.83
+    },
+    {
+        "itemId": "minecraft:lime_banner",
+        "price": 46.41
+    },
+    {
+        "itemId": "minecraft:lime_bed",
+        "price": 23.74
+    },
+    {
+        "itemId": "minecraft:lime_carpet",
+        "price": 5.15
+    },
+    {
+        "itemId": "minecraft:lime_concrete_powder",
+        "price": 2.81
+    },
+    {
+        "itemId": "minecraft:lime_glazed_terracotta",
+        "price": 6.3
+    },
+    {
+        "itemId": "minecraft:lime_shulker_box",
+        "price": 7.22
+    },
+    {
+        "itemId": "minecraft:lime_stained_glass",
+        "price": 1.87
+    },
+    {
+        "itemId": "minecraft:lime_stained_glass_pane",
+        "price": 0.74
+    },
+    {
+        "itemId": "minecraft:lime_terracotta",
+        "price": 6.0
+    },
+    {
+        "itemId": "minecraft:magenta_banner",
+        "price": 46.41
+    },
+    {
+        "itemId": "minecraft:magenta_bed",
+        "price": 23.74
+    },
+    {
+        "itemId": "minecraft:magenta_carpet",
+        "price": 5.15
+    },
+    {
+        "itemId": "minecraft:magenta_concrete_powder",
+        "price": 2.81
+    },
+    {
+        "itemId": "minecraft:magenta_glazed_terracotta",
+        "price": 6.12
+    },
+    {
+        "itemId": "minecraft:magenta_shulker_box",
+        "price": 5.84
+    },
+    {
+        "itemId": "minecraft:magenta_stained_glass",
+        "price": 1.69
+    },
+    {
+        "itemId": "minecraft:magenta_stained_glass_pane",
+        "price": 0.67
+    },
+    {
+        "itemId": "minecraft:magenta_terracotta",
+        "price": 5.83
+    },
+    {
+        "itemId": "minecraft:medium_amethyst_bud",
+        "price": 0.75
+    },
+    {
+        "itemId": "minecraft:milk_bucket",
+        "price": 17.42
+    },
+    {
+        "itemId": "minecraft:minecart",
+        "price": 27.57
+    },
+    {
+        "itemId": "minecraft:moss_carpet",
+        "price": 0.18
+    },
+    {
+        "itemId": "minecraft:mossy_cobblestone_slab",
+        "price": 1.06
+    },
+    {
+        "itemId": "minecraft:mossy_cobblestone_stairs",
+        "price": 2.12
+    },
+    {
+        "itemId": "minecraft:mossy_cobblestone_wall",
+        "price": 2.12
+    },
+    {
+        "itemId": "minecraft:mossy_stone_brick_wall",
+        "price": 2.14
+    },
+    {
+        "itemId": "minecraft:mushroom_stem",
+        "price": 0.1
+    },
+    {
+        "itemId": "minecraft:mushroom_stew",
+        "price": 1.21
+    },
+    {
+        "itemId": "minecraft:nether_brick",
+        "price": 0.06
+    },
+    {
+        "itemId": "minecraft:nether_brick_fence",
+        "price": 0.18
+    },
+    {
+        "itemId": "minecraft:nether_brick_wall",
+        "price": 0.24
+    },
+    {
+        "itemId": "minecraft:nether_sprouts",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:nether_wart_block",
+        "price": 7.09
+    },
+    {
+        "itemId": "minecraft:netherite_scrap",
+        "price": 138.87
+    },
+    {
+        "itemId": "minecraft:oak_door",
+        "price": 0.39
+    },
+    {
+        "itemId": "minecraft:oak_fence",
+        "price": 0.33
+    },
+    {
+        "itemId": "minecraft:oak_fence_gate",
+        "price": 0.8
+    },
+    {
+        "itemId": "minecraft:orange_banner",
+        "price": 46.41
+    },
+    {
+        "itemId": "minecraft:orange_bed",
+        "price": 23.74
+    },
+    {
+        "itemId": "minecraft:orange_carpet",
+        "price": 5.15
+    },
+    {
+        "itemId": "minecraft:orange_concrete_powder",
+        "price": 1.88
+    },
+    {
+        "itemId": "minecraft:orange_glazed_terracotta",
+        "price": 7.72
+    },
+    {
+        "itemId": "minecraft:orange_shulker_box",
+        "price": 5.84
+    },
+    {
+        "itemId": "minecraft:orange_stained_glass",
+        "price": 1.69
+    },
+    {
+        "itemId": "minecraft:orange_stained_glass_pane",
+        "price": 0.67
+    },
+    {
+        "itemId": "minecraft:orange_terracotta",
+        "price": 5.83
+    },
+    {
+        "itemId": "minecraft:oxidized_cut_copper",
+        "price": 20.11
+    },
+    {
+        "itemId": "minecraft:oxidized_cut_copper_slab",
+        "price": 30.16
+    },
+    {
+        "itemId": "minecraft:oxidized_cut_copper_stairs",
+        "price": 30.16
+    },
+    {
+        "itemId": "minecraft:painting",
+        "price": 8.53
+    },
+    {
+        "itemId": "minecraft:paper",
+        "price": 0.03
+    },
+    {
+        "itemId": "minecraft:pink_banner",
+        "price": 46.41
+    },
+    {
+        "itemId": "minecraft:pink_bed",
+        "price": 23.74
+    },
+    {
+        "itemId": "minecraft:pink_carpet",
+        "price": 5.15
+    },
+    {
+        "itemId": "minecraft:pink_concrete_powder",
+        "price": 1.88
+    },
+    {
+        "itemId": "minecraft:pink_glazed_terracotta",
+        "price": 6.12
+    },
+    {
+        "itemId": "minecraft:pink_shulker_box",
+        "price": 5.84
+    },
+    {
+        "itemId": "minecraft:pink_stained_glass",
+        "price": 1.69
+    },
+    {
+        "itemId": "minecraft:pink_stained_glass_pane",
+        "price": 0.67
+    },
+    {
+        "itemId": "minecraft:pink_terracotta",
+        "price": 5.83
+    },
+    {
+        "itemId": "minecraft:poisonous_potato",
+        "price": 15.0
+    },
+    {
+        "itemId": "minecraft:polished_basalt",
+        "price": 10.5
+    },
+    {
+        "itemId": "minecraft:polished_blackstone_brick_wall",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:polished_blackstone_button",
+        "price": 0.21
+    },
+    {
+        "itemId": "minecraft:polished_blackstone_pressure_plate",
+        "price": 0.42
+    },
+    {
+        "itemId": "minecraft:polished_blackstone_slab",
+        "price": 0.1
+    },
+    {
+        "itemId": "minecraft:polished_blackstone_stairs",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:polished_blackstone_wall",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:polished_deepslate",
+        "price": 0.18
+    },
+    {
+        "itemId": "minecraft:polished_deepslate_slab",
+        "price": 0.1
+    },
+    {
+        "itemId": "minecraft:polished_deepslate_stairs",
+        "price": 0.19
+    },
+    {
+        "itemId": "minecraft:polished_deepslate_wall",
+        "price": 0.19
+    },
+    {
+        "itemId": "minecraft:popped_chorus_fruit",
+        "price": 0.79
+    },
+    {
+        "itemId": "minecraft:powered_rail",
+        "price": 8.52
+    },
+    {
+        "itemId": "minecraft:prismarine_crystals",
+        "price": 1.75
+    },
+    {
+        "itemId": "minecraft:prismarine_shard",
+        "price": 1.75
+    },
+    {
+        "itemId": "minecraft:prismarine_wall",
+        "price": 7.72
+    },
+    {
+        "itemId": "minecraft:pufferfish",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:pumpkin_pie",
+        "price": 2.66
+    },
+    {
+        "itemId": "minecraft:purple_banner",
+        "price": 46.41
+    },
+    {
+        "itemId": "minecraft:purple_bed",
+        "price": 23.74
+    },
+    {
+        "itemId": "minecraft:purple_carpet",
+        "price": 5.15
+    },
+    {
+        "itemId": "minecraft:purple_concrete_powder",
+        "price": 2.81
+    },
+    {
+        "itemId": "minecraft:purple_glazed_terracotta",
+        "price": 6.12
+    },
+    {
+        "itemId": "minecraft:purple_shulker_box",
+        "price": 5.85
+    },
+    {
+        "itemId": "minecraft:purple_stained_glass",
+        "price": 1.69
+    },
+    {
+        "itemId": "minecraft:purple_stained_glass_pane",
+        "price": 0.67
+    },
+    {
+        "itemId": "minecraft:purple_terracotta",
+        "price": 5.83
+    },
+    {
+        "itemId": "minecraft:purpur_pillar",
+        "price": 0.87
+    },
+    {
+        "itemId": "minecraft:quartz_pillar",
+        "price": 36.47
+    },
+    {
+        "itemId": "minecraft:rabbit_stew",
+        "price": 5.03
+    },
+    {
+        "itemId": "minecraft:rail",
+        "price": 2.08
+    },
+    {
+        "itemId": "minecraft:raw_copper",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:raw_copper_block",
+        "price": 14.18
+    },
+    {
+        "itemId": "minecraft:raw_gold",
+        "price": 3.0
+    },
+    {
+        "itemId": "minecraft:raw_gold_block",
+        "price": 28.35
+    },
+    {
+        "itemId": "minecraft:raw_iron",
+        "price": 2.0
+    },
+    {
+        "itemId": "minecraft:raw_iron_block",
+        "price": 18.9
+    },
+    {
+        "itemId": "minecraft:red_banner",
+        "price": 46.41
+    },
+    {
+        "itemId": "minecraft:red_carpet",
+        "price": 5.15
+    },
+    {
+        "itemId": "minecraft:red_concrete_powder",
+        "price": 1.88
+    },
+    {
+        "itemId": "minecraft:red_glazed_terracotta",
+        "price": 6.12
+    },
+    {
+        "itemId": "minecraft:red_mushroom_block",
+        "price": 0.02
+    },
+    {
+        "itemId": "minecraft:red_nether_brick_wall",
+        "price": 2.14
+    },
+    {
+        "itemId": "minecraft:red_sandstone_wall",
+        "price": 8.82
+    },
+    {
+        "itemId": "minecraft:red_shulker_box",
+        "price": 5.84
+    },
+    {
+        "itemId": "minecraft:red_stained_glass",
+        "price": 1.69
+    },
+    {
+        "itemId": "minecraft:red_stained_glass_pane",
+        "price": 0.67
+    },
+    {
+        "itemId": "minecraft:red_terracotta",
+        "price": 5.83
+    },
+    {
+        "itemId": "minecraft:rose_bush",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:salmon",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:sandstone_wall",
+        "price": 3.15
+    },
+    {
+        "itemId": "minecraft:sculk_vein",
+        "price": 0.5
+    },
+    {
+        "itemId": "minecraft:scute",
+        "price": 132.5
+    },
+    {
+        "itemId": "minecraft:sea_pickle",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:seagrass",
+        "price": 1.75
+    },
+    {
+        "itemId": "minecraft:shulker_box",
+        "price": 5.3
+    },
+    {
+        "itemId": "minecraft:skeleton_skull",
+        "price": 150.0
+    },
+    {
+        "itemId": "minecraft:small_amethyst_bud",
+        "price": 0.5
+    },
+    {
+        "itemId": "minecraft:smooth_basalt",
+        "price": 10.5
+    },
+    {
+        "itemId": "minecraft:smooth_quartz",
+        "price": 36.47
+    },
+    {
+        "itemId": "minecraft:smooth_quartz_slab",
+        "price": 19.15
+    },
+    {
+        "itemId": "minecraft:smooth_quartz_stairs",
+        "price": 38.29
+    },
+    {
+        "itemId": "minecraft:smooth_stone",
+        "price": 0.19
+    },
+    {
+        "itemId": "minecraft:smooth_stone_slab",
+        "price": 0.1
+    },
+    {
+        "itemId": "minecraft:soul_soil",
+        "price": 2.5
+    },
+    {
+        "itemId": "minecraft:soul_torch",
+        "price": 2.06
+    },
+    {
+        "itemId": "minecraft:spectral_arrow",
+        "price": 3.97
+    },
+    {
+        "itemId": "minecraft:spruce_button",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:spruce_door",
+        "price": 0.39
+    },
+    {
+        "itemId": "minecraft:spruce_fence",
+        "price": 0.33
+    },
+    {
+        "itemId": "minecraft:spruce_fence_gate",
+        "price": 0.8
+    },
+    {
+        "itemId": "minecraft:spruce_pressure_plate",
+        "price": 0.39
+    },
+    {
+        "itemId": "minecraft:spruce_trapdoor",
+        "price": 0.58
+    },
+    {
+        "itemId": "minecraft:stick",
+        "price": 0.1
+    },
+    {
+        "itemId": "minecraft:stone_brick_wall",
+        "price": 0.2
+    },
+    {
+        "itemId": "minecraft:stone_slab",
+        "price": 0.1
+    },
+    {
+        "itemId": "minecraft:stone_stairs",
+        "price": 0.19
+    },
+    {
+        "itemId": "minecraft:stripped_acacia_log",
+        "price": 0.79
+    },
+    {
+        "itemId": "minecraft:stripped_acacia_wood",
+        "price": 1.11
+    },
+    {
+        "itemId": "minecraft:stripped_birch_log",
+        "price": 0.79
+    },
+    {
+        "itemId": "minecraft:stripped_birch_wood",
+        "price": 1.11
+    },
+    {
+        "itemId": "minecraft:stripped_crimson_hyphae",
+        "price": 1.11
+    },
+    {
+        "itemId": "minecraft:stripped_crimson_stem",
+        "price": 0.79
+    },
+    {
+        "itemId": "minecraft:stripped_dark_oak_log",
+        "price": 0.79
+    },
+    {
+        "itemId": "minecraft:stripped_dark_oak_wood",
+        "price": 1.11
+    },
+    {
+        "itemId": "minecraft:stripped_jungle_log",
+        "price": 0.79
+    },
+    {
+        "itemId": "minecraft:stripped_jungle_wood",
+        "price": 1.11
+    },
+    {
+        "itemId": "minecraft:stripped_oak_log",
+        "price": 0.79
+    },
+    {
+        "itemId": "minecraft:stripped_oak_wood",
+        "price": 1.11
+    },
+    {
+        "itemId": "minecraft:stripped_spruce_log",
+        "price": 0.79
+    },
+    {
+        "itemId": "minecraft:stripped_spruce_wood",
+        "price": 1.11
+    },
+    {
+        "itemId": "minecraft:stripped_warped_hyphae",
+        "price": 1.11
+    },
+    {
+        "itemId": "minecraft:stripped_warped_stem",
+        "price": 0.79
+    },
+    {
+        "itemId": "minecraft:sugar",
+        "price": 0.03
+    },
+    {
+        "itemId": "minecraft:sweet_berries",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:tnt_minecart",
+        "price": 56.92
+    },
+    {
+        "itemId": "minecraft:torch",
+        "price": 1.41
+    },
+    {
+        "itemId": "minecraft:trapped_chest",
+        "price": 4.67
+    },
+    {
+        "itemId": "minecraft:tropical_fish",
+        "price": 1.5
+    },
+    {
+        "itemId": "minecraft:warped_button",
+        "price": 0.14
+    },
+    {
+        "itemId": "minecraft:warped_door",
+        "price": 0.28
+    },
+    {
+        "itemId": "minecraft:warped_fence",
+        "price": 0.26
+    },
+    {
+        "itemId": "minecraft:warped_fence_gate",
+        "price": 0.69
+    },
+    {
+        "itemId": "minecraft:warped_pressure_plate",
+        "price": 0.14
+    },
+    {
+        "itemId": "minecraft:warped_roots",
+        "price": 1.25
+    },
+    {
+        "itemId": "minecraft:warped_trapdoor",
+        "price": 0.42
+    },
+    {
+        "itemId": "minecraft:warped_wart_block",
+        "price": 6.75
+    },
+    {
+        "itemId": "minecraft:weathered_copper",
+        "price": 18.24
+    },
+    {
+        "itemId": "minecraft:weathered_cut_copper",
+        "price": 19.15
+    },
+    {
+        "itemId": "minecraft:weathered_cut_copper_slab",
+        "price": 28.72
+    },
+    {
+        "itemId": "minecraft:weathered_cut_copper_stairs",
+        "price": 28.72
+    },
+    {
+        "itemId": "minecraft:wet_sponge",
+        "price": 125.0
+    },
+    {
+        "itemId": "minecraft:white_banner",
+        "price": 46.41
+    },
+    {
+        "itemId": "minecraft:white_bed",
+        "price": 23.74
+    },
+    {
+        "itemId": "minecraft:white_carpet",
+        "price": 5.15
+    },
+    {
+        "itemId": "minecraft:white_concrete_powder",
+        "price": 1.91
+    },
+    {
+        "itemId": "minecraft:white_glazed_terracotta",
+        "price": 6.15
+    },
+    {
+        "itemId": "minecraft:white_shulker_box",
+        "price": 5.99
+    },
+    {
+        "itemId": "minecraft:white_stained_glass",
+        "price": 1.71
+    },
+    {
+        "itemId": "minecraft:white_stained_glass_pane",
+        "price": 0.68
+    },
+    {
+        "itemId": "minecraft:white_terracotta",
+        "price": 5.86
+    },
+    {
+        "itemId": "minecraft:white_tulip",
+        "price": 0.25
+    },
+    {
+        "itemId": "minecraft:wither_rose",
+        "price": 0.5
+    },
+    {
+        "itemId": "minecraft:wither_skeleton_skull",
+        "price": 125.0
+    },
+    {
+        "itemId": "minecraft:yellow_banner",
+        "price": 46.41
+    },
+    {
+        "itemId": "minecraft:yellow_bed",
+        "price": 23.74
+    },
+    {
+        "itemId": "minecraft:yellow_carpet",
+        "price": 5.15
+    },
+    {
+        "itemId": "minecraft:yellow_concrete_powder",
+        "price": 1.87
+    },
+    {
+        "itemId": "minecraft:yellow_glazed_terracotta",
+        "price": 6.11
+    },
+    {
+        "itemId": "minecraft:yellow_shulker_box",
+        "price": 5.75
+    },
+    {
+        "itemId": "minecraft:yellow_stained_glass",
+        "price": 1.68
+    },
+    {
+        "itemId": "minecraft:yellow_stained_glass_pane",
+        "price": 0.67
+    },
+    {
+        "itemId": "minecraft:yellow_terracotta",
+        "price": 5.82
+    },
+    {
+        "itemId": "minecraft:zombie_head",
+        "price": 150.0
+    },
+    {
+        "itemId": "minecraft:acacia_boat",
+        "price": 0.97
+    },
+    {
+        "itemId": "minecraft:acacia_chest_boat",
+        "price": 2.64
+    },
+    {
+        "itemId": "minecraft:bamboo_chest_raft",
+        "price": 3.09
+    },
+    {
+        "itemId": "minecraft:bamboo_raft",
+        "price": 0.66
+    },
+    {
+        "itemId": "minecraft:birch_boat",
+        "price": 0.97
+    },
+    {
+        "itemId": "minecraft:birch_chest_boat",
+        "price": 2.64
+    },
+    {
+        "itemId": "minecraft:cherry_boat",
+        "price": 1.04
+    },
+    {
+        "itemId": "minecraft:cherry_chest_boat",
+        "price": 3.52
+    },
+    {
+        "itemId": "minecraft:dark_oak_boat",
+        "price": 0.97
+    },
+    {
+        "itemId": "minecraft:dark_oak_chest_boat",
+        "price": 2.64
+    },
+    {
+        "itemId": "minecraft:jungle_boat",
+        "price": 0.97
+    },
+    {
+        "itemId": "minecraft:jungle_chest_boat",
+        "price": 2.64
+    },
+    {
+        "itemId": "minecraft:mangrove_boat",
+        "price": 0.69
+    },
+    {
+        "itemId": "minecraft:mangrove_chest_boat",
+        "price": 2.35
+    },
+    {
+        "itemId": "minecraft:oak_boat",
+        "price": 0.97
+    },
+    {
+        "itemId": "minecraft:oak_chest_boat",
+        "price": 2.64
+    },
+    {
+        "itemId": "minecraft:spruce_boat",
+        "price": 0.97
+    },
+    {
+        "itemId": "minecraft:spruce_chest_boat",
+        "price": 2.64
+    },
+    {
+        "itemId": "minecraft:enchanted_book",
+        "price": 80.0
+    },
+    {
+        "itemId": "minecraft:potion",
+        "price": 12.0
+    },
+    {
+        "itemId": "minecraft:splash_potion",
+        "price": 18.0
+    },
+    {
+        "itemId": "minecraft:lingering_potion",
+        "price": 25.0
+    },
+    {
+        "itemId": "minecraft:tipped_arrow",
+        "price": 4.0
+    }
+]

@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.oktsas.onekeytosetaserver.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "onekeytosetaserver.refmap.json",
+  "mixins": [
+    "DimensionTypeMixin",
+    "MinecraftServerAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

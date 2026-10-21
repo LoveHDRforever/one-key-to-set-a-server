@@ -1,0 +1,13 @@
+{
+  "required": false,
+  "minVersion": "0.8.5",
+  "package": "com.oktsas.chatbridge.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "oktsas_chatbridge.refmap.json",
+  "client": [
+    "ChatBubbleScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
